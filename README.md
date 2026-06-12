@@ -106,7 +106,7 @@ The front-end is an executive-ready, multi-page Streamlit application that close
 * **Customer 360 View**: Deep-dive search dropdown to inspect individual member profiles, FVS/risk gauge dials, individual SHAP behavioral diagnostics, and custom retention campaign checklists.
 
 ### Access URL
-* **Local Access Link**: [http://localhost:8501/](http://localhost:8501/)
+* Access Link: [Click ](https://air-sense-eyldzdce5xetez8p5kxrka.streamlit.app/)
 
 ## 🚀 How to Run the System
 
